@@ -4,13 +4,13 @@ export const homeData = {
     headlinePart1: "We Architect & Build",
     headlineHighlight: "Modern Web Solutions",
     headlinePart2: "That Scale Effortlessly",
-    description: "Egnisher is a senior-led engineering agency delivering resilient front-ends, high-throughput backends, and cloud-native digital platforms for innovative businesses worldwide.",
+    description: "InspoTech is a senior-led engineering agency delivering resilient front-ends, high-throughput backends, and cloud-native digital platforms for innovative businesses worldwide.",
     primaryCta: { label: "Start Your Project", path: "/contact" },
     secondaryCta: { label: "Explore Our Work", path: "/portfolio" },
     terminalSnippet: {
       filename: "Architecture.config.ts",
       lines: [
-        { code: "const agency = new FullStackAgency('Egnisher');", comment: "// Production-ready" },
+        { code: "const agency = new FullStackAgency('InspoTech');", comment: "// Production-ready" },
         { code: "await agency.deploy({", comment: "" },
         { code: "  frontend: 'React + Modern CSS + SSR',", comment: "" },
         { code: "  backend: 'Node.js + REST/GraphQL APIs',", comment: "" },

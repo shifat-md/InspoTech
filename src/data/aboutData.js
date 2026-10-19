@@ -1,6 +1,6 @@
 export const aboutData = {
   hero: {
-    badge: "About Egnisher",
+    badge: "About InspoTech",
     title: "Senior Full-Stack Engineers Building the Future of the Web",
     subtitle: "We bridge the gap between creative interface design and robust, enterprise-grade software engineering."
   },
@@ -9,7 +9,7 @@ export const aboutData = {
     badge: "Our Origin & Growth",
     title: "Founded to Solve the Modern Software Complexity Crisis",
     paragraphs: [
-      "Egnisher started with a straightforward conviction: modern web platforms should be both visually captivating and architecturally unshakeable. Too many businesses were forced to choose between sleek agencies with fragile code or backend consultancies with outdated interfaces.",
+      "InspoTech started with a straightforward conviction: modern web platforms should be both visually captivating and architecturally unshakeable. Too many businesses were forced to choose between sleek agencies with fragile code or backend consultancies with outdated interfaces.",
       "We assembled an agile collective of senior full-stack developers, system architects, and design technologists who pride themselves on craftsmanship. Today, we partner with high-growth startups and established enterprises across the globe to build web applications that withstand real-world scale.",
       "We eliminate unnecessary bloat, honor web standards, and write clean, maintainable JavaScript and modern CSS that deliver immediate business outcomes."
     ]

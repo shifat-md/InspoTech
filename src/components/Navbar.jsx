@@ -4,6 +4,8 @@ import { FiMenu, FiX, FiArrowRight, FiCode } from 'react-icons/fi';
 import { navLinks } from '../data/navigationData';
 import { siteConfig } from '../data/siteConfig';
 
+import Logo from './Logo';
+
 export default function Navbar() {
   const [isScrolled, setIsScrolled] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -46,9 +48,7 @@ export default function Navbar() {
         <div className="container navbar-container">
           {/* Logo / Agency Name */}
           <Link to="/" className="navbar-brand" aria-label={`${siteConfig.name} Home`}>
-            <div className="brand-icon-wrap">
-              <FiCode size={22} color="#FFFFFF" />
-            </div>
+            <Logo size={36} />
             <span className="brand-text">
               {siteConfig.name}
               <span className="brand-dot">.</span>
@@ -116,9 +116,7 @@ export default function Navbar() {
       >
         <div className="mobile-nav-header">
           <Link to="/" className="navbar-brand" onClick={() => setMobileMenuOpen(false)}>
-            <div className="brand-icon-wrap" style={{ width: '32px', height: '32px' }}>
-              <FiCode size={18} color="#FFFFFF" />
-            </div>
+            <Logo size={32} />
             <span className="brand-text">{siteConfig.name}</span>
           </Link>
           <button

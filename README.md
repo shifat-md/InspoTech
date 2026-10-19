@@ -1,4 +1,4 @@
-# Inspo — Modern Full-Stack Development Agency Website
+# InspoTech — Modern Full-Stack Development Agency Website
 
 ##  How to Edit Content & Data
 

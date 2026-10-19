@@ -13,6 +13,7 @@ import {
 } from 'react-icons/fi';
 import { footerGroups } from '../data/navigationData';
 import { siteConfig } from '../data/siteConfig';
+import Logo from './Logo';
 
 export default function Footer() {
   const [newsletterEmail, setNewsletterEmail] = useState('');
@@ -41,9 +42,7 @@ export default function Footer() {
           {/* Brand Column */}
           <div className="footer-brand-col">
             <Link to="/" className="navbar-brand" style={{ marginBottom: '1.25rem' }}>
-              <div className="brand-icon-wrap">
-                <FiCode size={20} color="#FFFFFF" />
-              </div>
+              <Logo size={36} />
               <span className="brand-text">{siteConfig.name}</span>
             </Link>
             <p style={{ fontSize: '0.94rem', color: 'var(--text-secondary)', marginBottom: '1.5rem', lineHeight: '1.6' }}>

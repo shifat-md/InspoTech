@@ -10,7 +10,7 @@ export const testimonialsData = [
     clientName: "Sarah Jenkins",
     role: "VP of Product",
     company: "CloudVanguard (Sample Partner)",
-    quote: "Egnisher completely transformed our core analytics platform. Their full-stack team delivered a sub-second reactive frontend and eliminated the database query bottlenecks that had troubled us for quarters.",
+    quote: "InspoTech completely transformed our core analytics platform. Their full-stack team delivered a sub-second reactive frontend and eliminated the database query bottlenecks that had troubled us for quarters.",
     rating: 5,
     avatar: "SJ"
   },
@@ -19,7 +19,7 @@ export const testimonialsData = [
     clientName: "Michael Thorne",
     role: "Chief Technology Officer",
     company: "Aetheria Commerce (Sample Partner)",
-    quote: "Finding an agency that truly understands both clean React component architecture and resilient backend engineering is rare. Egnisher gave us production confidence from day one.",
+    quote: "Finding an agency that truly understands both clean React component architecture and resilient backend engineering is rare. InspoTech gave us production confidence from day one.",
     rating: 5,
     avatar: "MT"
   },

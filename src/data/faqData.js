@@ -3,7 +3,7 @@ export const faqData = [
     category: "General & Services",
     items: [
       {
-        question: "What types of projects does Egnisher specialize in?",
+        question: "What types of projects does InspoTech specialize in?",
         answer: "We specialize in end-to-end full-stack web development, custom SaaS web applications, high-performance e-commerce portals, modern REST/GraphQL API architectures, and legacy website modernizations."
       },
       {

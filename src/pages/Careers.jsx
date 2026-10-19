@@ -73,7 +73,7 @@ export default function Careers() {
       <section className="section" style={{ backgroundColor: 'var(--bg-dark-secondary)' }}>
         <div className="container">
           <SectionHeading
-            badge="Why Join Egnisher"
+            badge="Why Join InspoTech"
             title="Work That Respects Your Craft"
             subtitle="We give engineers the space and tools to do their best work without micromanagement."
             align="center"
@@ -152,7 +152,7 @@ export default function Careers() {
                   </div>
 
                   <a
-                    href={`mailto:careers@egnisher.dev?subject=Application for ${encodeURIComponent(role.title)}`}
+                    href={`mailto:careers@inspotech.dev?subject=Application for ${encodeURIComponent(role.title)}`}
                     className="btn btn-primary btn-sm"
                   >
                     <span>Apply Now</span>

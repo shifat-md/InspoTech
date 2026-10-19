@@ -14,7 +14,7 @@ export const legalPagesData = {
     sections: [
       {
         heading: "1. Information We Collect",
-        body: "Egnisher ('the Agency', 'we', 'us') collects information you provide directly via our contact form, newsletter signup, and project inquiry channels. This typically includes your full name, business email address, phone number, and project specifications."
+        body: "InspoTech ('the Agency', 'we', 'us') collects information you provide directly via our contact form, newsletter signup, and project inquiry channels. This typically includes your full name, business email address, phone number, and project specifications."
       },
       {
         heading: "2. How We Use Your Information",
@@ -26,7 +26,7 @@ export const legalPagesData = {
       },
       {
         heading: "4. Your Rights Under GDPR / CCPA",
-        body: "Depending on your geographic location, you may have the right to request access to, correction of, or deletion of your personal data held by us. Contact our privacy team at privacy@egnisher.dev to exercise these rights."
+        body: "Depending on your geographic location, you may have the right to request access to, correction of, or deletion of your personal data held by us. Contact our privacy team at privacy@inspotech.dev to exercise these rights."
       }
     ]
   },
@@ -37,11 +37,11 @@ export const legalPagesData = {
     sections: [
       {
         heading: "1. Acceptance of Terms",
-        body: "By accessing this website or engaging Egnisher for software development services, you agree to be bound by these Terms of Service and all applicable laws and regulations."
+        body: "By accessing this website or engaging InspoTech for software development services, you agree to be bound by these Terms of Service and all applicable laws and regulations."
       },
       {
         heading: "2. Scope of Services & SOW",
-        body: "All professional services, project milestones, payment schedules, and deliverable specifications are governed by an executed Statement of Work (SOW) mutually signed by the Client and Egnisher."
+        body: "All professional services, project milestones, payment schedules, and deliverable specifications are governed by an executed Statement of Work (SOW) mutually signed by the Client and InspoTech."
       },
       {
         heading: "3. Intellectual Property Rights",
@@ -49,7 +49,7 @@ export const legalPagesData = {
       },
       {
         heading: "4. Limitation of Liability",
-        body: "In no event shall Egnisher or its directors be liable for any indirect, incidental, consequential, or punitive damages arising from the use of software deliverables, beyond the fees paid under the relevant contract."
+        body: "In no event shall InspoTech or its directors be liable for any indirect, incidental, consequential, or punitive damages arising from the use of software deliverables, beyond the fees paid under the relevant contract."
       }
     ]
   },
@@ -83,7 +83,7 @@ export const legalPagesData = {
       },
       {
         heading: "2. Milestone-Based Engagements",
-        body: "Clients pay upon mutual approval of completed milestone deliverables. If a milestone does not meet agreed specifications, Egnisher will conduct revisions as outlined in the Statement of Work before billing."
+        body: "Clients pay upon mutual approval of completed milestone deliverables. If a milestone does not meet agreed specifications, InspoTech will conduct revisions as outlined in the Statement of Work before billing."
       },
       {
         heading: "3. Cancellation Notice",
@@ -113,7 +113,7 @@ export const legalPagesData = {
     sections: [
       {
         heading: "1. Our Commitment to Web Accessibility",
-        body: "Egnisher is committed to ensuring digital accessibility for all people, including those with disabilities. We continually improve the user experience for everyone and apply relevant accessibility standards."
+        body: "InspoTech is committed to ensuring digital accessibility for all people, including those with disabilities. We continually improve the user experience for everyone and apply relevant accessibility standards."
       },
       {
         heading: "2. Conformance Status",
@@ -121,7 +121,7 @@ export const legalPagesData = {
       },
       {
         heading: "3. Feedback & Assistance",
-        body: "We welcome your feedback on the accessibility of our site. If you encounter accessibility barriers, please email accessibility@egnisher.dev and our engineering team will address it promptly."
+        body: "We welcome your feedback on the accessibility of our site. If you encounter accessibility barriers, please email accessibility@inspotech.dev and our engineering team will address it promptly."
       }
     ]
   }
