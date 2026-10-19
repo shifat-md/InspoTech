@@ -1,0 +1,71 @@
+:root {
+  /* Brand Color Palette */
+  --color-primary: #642CD7;
+  --color-primary-rgb: 100, 44, 215;
+  --color-primary-dark: #4F1FB3;
+  --color-purple: #7C4DFF;
+  --color-purple-rgb: 124, 77, 255;
+  --color-teal: #14B8A6;
+  --color-teal-rgb: 20, 184, 166;
+  --color-teal-dark: #0D9488;
+  --color-light-purple: #B996FF;
+  --color-light-purple-rgb: 185, 150, 255;
+  --color-gray: #667085;
+  --color-gray-rgb: 102, 112, 133;
+
+  /* Neutral Dark Theme Scale */
+  --bg-dark: #0B0A12;
+  --bg-dark-secondary: #121020;
+  --bg-card: #17152B;
+  --bg-card-hover: #1E1B38;
+  --bg-card-glass: rgba(23, 21, 43, 0.7);
+  --bg-input: #151326;
+  --bg-elevated: #221E40;
+
+  /* Text Colors */
+  --text-white: #FFFFFF;
+  --text-primary: #F3F4F6;
+  --text-secondary: #9CA3AF;
+  --text-muted: #6B7280;
+  --text-highlight: #B996FF;
+
+  /* Borders & Dividers */
+  --border-color: rgba(185, 150, 255, 0.12);
+  --border-hover: rgba(124, 77, 255, 0.35);
+  --border-accent: rgba(20, 184, 166, 0.3);
+
+  /* Gradients */
+  --gradient-primary: linear-gradient(135deg, #642CD7 0%, #7C4DFF 50%, #14B8A6 100%);
+  --gradient-purple-teal: linear-gradient(135deg, #7C4DFF 0%, #14B8A6 100%);
+  --gradient-hero: radial-gradient(circle at 50% 20%, rgba(100, 44, 215, 0.25) 0%, rgba(11, 10, 18, 0.95) 75%);
+  --gradient-card: linear-gradient(180deg, rgba(30, 27, 56, 0.6) 0%, rgba(18, 16, 32, 0.8) 100%);
+  --gradient-glow: radial-gradient(circle, rgba(124, 77, 255, 0.15) 0%, transparent 70%);
+
+  /* Typography */
+  --font-heading: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-body: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+
+  /* Shadows */
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.25);
+  --shadow-md: 0 4px 20px rgba(0, 0, 0, 0.35);
+  --shadow-lg: 0 10px 30px rgba(0, 0, 0, 0.45);
+  --shadow-glow: 0 0 25px rgba(124, 77, 255, 0.35);
+  --shadow-teal: 0 0 25px rgba(20, 184, 166, 0.35);
+
+  /* Transitions */
+  --transition-fast: 0.15s ease-in-out;
+  --transition-normal: 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  --transition-slow: 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+
+  /* Radius */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+  --radius-full: 9999px;
+
+  /* Layout */
+  --container-max-width: 1240px;
+  --navbar-height: 80px;
+}

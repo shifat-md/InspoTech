@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 350" width="100%" height="100%">
+  <rect width="600" height="350" fill="#140F22" />
+  <rect x="50" y="40" width="500" height="270" rx="12" fill="#1B152F" stroke="#B996FF" stroke-width="1.5" stroke-opacity="0.4" />
+  
+  <text x="80" y="80" fill="#B996FF" font-family="monospace" font-size="14">:root {</text>
+  <text x="110" y="110" fill="#14B8A6" font-family="monospace" font-size="13">--color-primary: #642CD7;</text>
+  <text x="110" y="135" fill="#14B8A6" font-family="monospace" font-size="13">--fluid-heading: clamp(2rem, 5vw, 3.5rem);</text>
+  <text x="110" y="160" fill="#14B8A6" font-family="monospace" font-size="13">--transition-smooth: 0.3s cubic-bezier(0.16, 1, 0.3, 1);</text>
+  <text x="80" y="185" fill="#B996FF" font-family="monospace" font-size="14">}</text>
+
+  <text x="80" y="220" fill="#B996FF" font-family="monospace" font-size="14">.modern-card:has(:focus-visible) {</text>
+  <text x="110" y="245" fill="#7C4DFF" font-family="monospace" font-size="13">box-shadow: 0 0 25px var(--color-teal);</text>
+  <text x="110" y="270" fill="#7C4DFF" font-family="monospace" font-size="13">transform: translateY(-4px);</text>
+  <text x="80" y="295" fill="#B996FF" font-family="monospace" font-size="14">}</text>
+</svg>

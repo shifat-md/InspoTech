@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <rect width="800" height="500" fill="#0E0D17" />
+  <rect x="50" y="50" width="700" height="400" rx="14" fill="#18152B" stroke="#B996FF" stroke-opacity="0.3" stroke-width="1.5" />
+  <text x="80" y="95" fill="#FFFFFF" font-family="sans-serif" font-size="18" font-weight="bold">ZENITH // COMPONENT DESIGN SYSTEM</text>
+  
+  <!-- Buttons component preview -->
+  <rect x="80" y="130" width="300" height="130" rx="10" fill="#121020" stroke="#7C4DFF" stroke-opacity="0.2" />
+  <text x="100" y="155" fill="#9CA3AF" font-family="sans-serif" font-size="12">BUTTON TOKENS</text>
+  <rect x="100" y="175" width="110" height="35" rx="6" fill="#642CD7" />
+  <text x="125" y="197" fill="#FFFFFF" font-family="sans-serif" font-size="12" font-weight="600">Primary</text>
+  <rect x="230" y="175" width="110" height="35" rx="6" fill="transparent" stroke="#14B8A6" stroke-width="1.5" />
+  <text x="255" y="197" fill="#14B8A6" font-family="sans-serif" font-size="12" font-weight="600">Secondary</text>
+
+  <!-- Input component preview -->
+  <rect x="420" y="130" width="300" height="130" rx="10" fill="#121020" stroke="#7C4DFF" stroke-opacity="0.2" />
+  <text x="440" y="155" fill="#9CA3AF" font-family="sans-serif" font-size="12">FORM INPUT CONTROLS</text>
+  <rect x="440" y="175" width="260" height="38" rx="6" fill="#1A182F" stroke="#7C4DFF" stroke-width="1" />
+  <text x="455" y="199" fill="#9CA3AF" font-family="sans-serif" font-size="12">user@domain.com |</text>
+
+  <!-- Badges preview -->
+  <rect x="80" y="280" width="640" height="140" rx="10" fill="#121020" stroke="#7C4DFF" stroke-opacity="0.2" />
+  <text x="100" y="305" fill="#9CA3AF" font-family="sans-serif" font-size="12">STATUS BADGES &amp; ACCESSIBILITY</text>
+  <rect x="100" y="330" width="120" height="30" rx="15" fill="#10B981" fill-opacity="0.15" stroke="#10B981" stroke-width="1" />
+  <text x="120" y="350" fill="#10B981" font-family="sans-serif" font-size="12" font-weight="600">Active (AA)</text>
+  <rect x="240" y="330" width="120" height="30" rx="15" fill="#F59E0B" fill-opacity="0.15" stroke="#F59E0B" stroke-width="1" />
+  <text x="260" y="350" fill="#F59E0B" font-family="sans-serif" font-size="12" font-weight="600">Pending</text>
+  <rect x="380" y="330" width="120" height="30" rx="15" fill="#642CD7" fill-opacity="0.2" stroke="#B996FF" stroke-width="1" />
+  <text x="400" y="350" fill="#B996FF" font-family="sans-serif" font-size="12" font-weight="600">Enterprise</text>
+  <text x="100" y="395" fill="#9CA3AF" font-family="sans-serif" font-size="12">45+ accessible tokens  •  0 kB CSS library dependencies  •  WCAG 2.1 AA certified</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 350" width="100%" height="100%">
+  <rect width="600" height="350" fill="#131024" />
+  <rect x="50" y="40" width="500" height="270" rx="12" fill="#1A1532" stroke="#7C4DFF" stroke-width="1.5" stroke-opacity="0.4" />
+  
+  <!-- Cylinder database tiers -->
+  <g transform="translate(180, 70)">
+    <ellipse cx="120" cy="40" rx="100" ry="24" fill="#292050" stroke="#7C4DFF" stroke-width="2" />
+    <path d="M 20 40 V 90 A 100 24 0 0 0 220 90 V 40" fill="#201840" stroke="#7C4DFF" stroke-width="2" />
+    <ellipse cx="120" cy="90" rx="100" ry="24" fill="#292050" stroke="#7C4DFF" stroke-width="2" />
+    <path d="M 20 90 V 140 A 100 24 0 0 0 220 140 V 90" fill="#1A1336" stroke="#7C4DFF" stroke-width="2" />
+    <ellipse cx="120" cy="140" rx="100" ry="24" fill="#292050" stroke="#14B8A6" stroke-width="2" />
+    <text x="75" y="45" fill="#FFFFFF" font-family="sans-serif" font-size="13" font-weight="bold">POSTGRESQL 16</text>
+    <text x="85" y="95" fill="#B996FF" font-family="sans-serif" font-size="12">WRITE REPLICA</text>
+    <text x="80" y="145" fill="#14B8A6" font-family="sans-serif" font-size="12">READ POOL (0ms)</text>
+  </g>
+  <text x="80" y="275" fill="#9CA3AF" font-family="monospace" font-size="12">CREATE INDEX CONCURRENTLY idx_users_email ON users(email);</text>
+</svg>
