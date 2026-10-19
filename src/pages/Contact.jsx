@@ -358,7 +358,7 @@ export default function Contact() {
                 </div>
 
                 {/* Budget Range (Optional) */}
-                <div className="form-group">
+                {/* <div className="form-group">
                   <label htmlFor="budget" className="form-label">
                     Estimated Budget Range (Optional)
                   </label>
@@ -375,7 +375,7 @@ export default function Contact() {
                     <option value="$30k – $60k">$30k – $60k (Comprehensive Full-Stack)</option>
                     <option value="$60k+">$60k+ (Enterprise Multi-Month Platform)</option>
                   </select>
-                </div>
+                </div> */}
 
                 {/* Subject Field */}
                 <div className="form-group">
